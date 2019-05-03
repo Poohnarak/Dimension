@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556862000 source:c:\users\kitti\desktop\dimension\ass2\main.cpp
+	<iostream>
+	<string.h>
+	"stdio.h"
+
